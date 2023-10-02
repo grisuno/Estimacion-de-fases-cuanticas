@@ -1,4 +1,5 @@
 # Estimacion-de-fases-cuanticas
+![Sin título](https://github.com/grisuno/Estimacion-de-fases-cuanticas/assets/1097185/fe340e09-06d7-43f3-8f36-4576fcc76ad6)
 
 from qiskit import QuantumCircuit, transpile, assemble, Aer, execute
 from qiskit.visualization import plot_histogram
