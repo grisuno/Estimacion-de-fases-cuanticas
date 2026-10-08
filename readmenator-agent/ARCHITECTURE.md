@@ -6,4 +6,6 @@
 
 ## External Imports
 
-- `main.py` -> numpy, qiskit, qiskit.visualization
+- `main.py` -> `numpy`
+- `main.py` -> `qiskit`
+- `main.py` -> `qiskit.visualization`

@@ -1,4 +1,6 @@
 # API
 
 ## main.py
-- `main` (function) `main.py:5` `def main()`
+
+### main (function) `def main()`
+- Defined: `main.py:5`

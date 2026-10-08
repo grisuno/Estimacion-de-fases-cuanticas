@@ -7,6 +7,6 @@
   - `main` (function, line 5) `def main()`
 
 ## simulator.py
-- Doc: Simulador Aer para ejecutar el circuito
 - Layer: utility
+- Doc: Simulador Aer para ejecutar el circuito
 - Language: py
